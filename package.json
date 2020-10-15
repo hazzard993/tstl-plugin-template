@@ -1,0 +1,9 @@
+{
+  "name": "tstl-plugin-template",
+  "version": "1.0.0",
+  "main": "plugin.ts",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript-to-lua": "^0.35.0"
+  }
+}
